@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  photo: "http://placehold.it/800x500",
+  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
 };
 
 /*
